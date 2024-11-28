@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("      November 2024\n");
+    printf("   November 2024\n");
     printf("Su Mo Tu We Th Fr Sa\n");
     printf("                1  2\n");
     printf(" 3  4  5  6  7  8  9\n");
